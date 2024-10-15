@@ -1,4 +1,4 @@
-Título: Apresentação do Meu Curso
+Apresentação do Meu Curso
 
 Neste projeto, apresento o meu curso na ETEC.
 
